@@ -1,6 +1,6 @@
 # Functions 
 
-## What a did?
+## What I did?
 
 In this activitie I used some differents functions like:
 
