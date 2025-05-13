@@ -4,7 +4,7 @@
 
 In this activitie I used some differents functions like:
 
-- len(),
+- len()
 - max()
 - min()
 - lambda
