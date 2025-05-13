@@ -4,11 +4,11 @@
 
 In this activitie I used some differents functions like:
 
-<ul> len(),
-<ul> max()
-<ul> min()
-<ul> lambda
-<ul> map()
+- len(),
+- max()
+- min()
+- lambda
+- map()
 ...
 
 I've learned hoe can I use this functions on data science
